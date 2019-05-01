@@ -8,4 +8,4 @@
 
 <p>I added a JavaScript function to find the current page URL and evaluate it against the page's anchor tags and if they are the same, a class is added called current-link, which is used to style (highlight in pink) the navigation of the current page to implement the current UX best practice of wayfinding, letting the user know where they are on the site at all times.</p>
 
-<p>Above are some mockup photos of the homepage for the PDR website that I sent to the client while building it to get feedback on what they liked and didn't like They ended going with a white background for the logo and for the navigation instead of the gold and pink.</p>
+<p>Above are some mockup photos of the homepage for the PDR website that I sent to the client while building it to get feedback on what they liked and didn't like. They ended going with a white background for the logo and for the navigation instead of the gold and pink.</p>
